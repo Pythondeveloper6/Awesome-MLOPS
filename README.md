@@ -14,6 +14,7 @@ A curated list of resources, tools, frameworks, articles, and projects related t
   - [Roadmaps](#roadmaps)
   - [One Video](#one-video)
   - [Playlists](#playlists)
+  - [Youtube channels](#youtube-channels)
   - [Linkedin Accounts](#linkedin-accounts)
   - [Books](#books)
   - [Blogs](#blogs)
@@ -21,8 +22,8 @@ A curated list of resources, tools, frameworks, articles, and projects related t
   - [Paid Courses](#paid-courses)
   - [Communities](#communities)
   - [Projects](#projects)
+  - [Tools](#tools)
   - [Contributing](#contributing)
-  - [License](#license)
 
 ## Introduction
 
@@ -56,6 +57,19 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [MLOPS Krish Naik](https://www.youtube.com/playlist?list=PLZoTAELRMXVOk1pRcOCaG5xtXxgMalpIe)
 - [MLOps - Machine Learning Operations](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J)
 - [Azure MLOps - DevOps for Machine Learning MG](https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f)
+
+## Youtube channels 
+
+- [MLOpscommunity](https://www.youtube.com/c/MLOpscommunity)
+- [Krish Naik](https://www.youtube.com/@krishnaik06)
+- [DSwithBappy](https://www.youtube.com/@dswithbappy)
+- [MLOps World: Machine Learning in Production](https://www.youtube.com/@mlopsworldmachinelearningi9769)
+- [MLOps Learners](https://www.youtube.com/@mlopslearners)
+- [DataTalksClub](https://www.youtube.com/@DataTalksClub/videos)
+- [AiOps & MLOps School](https://www.youtube.com/@theaiops)
+- [Miki Bazeley - The MLOps Engineer](https://www.youtube.com/@Miki_ML)
+- [Sokratis Kartakis](https://www.youtube.com/@sokratis.kartakis/videos)
+- [MLOps London](https://www.youtube.com/@mlopslondon)
 
 
 ## Linkedin Accounts 
@@ -104,6 +118,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [Mlops Now](https://mlopsnow.com/blog/)
 - [Data Tron](https://datatron.com/blog/)
 
+
 ## Free Courses 
 
 - [MLOps specialization by DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
@@ -133,7 +148,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 
 - [MLOps.community on Slack](https://mlops.community)
 - [CDF Special Interest Group – MLOps]()
-- []()
+
 
 
 
@@ -154,12 +169,38 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [Build CI/CD Pipelines for ML Projects with Azure Devops](https://www.youtube.com/watch?v=xbgMqCuWgzs)
 - [MLOPS - Running Successful AI Projects in Production](https://www.youtube.com/watch?v=C79Ut0fVDSY)
 - [End-to-End MLOps Project using one component on Azure](https://www.youtube.com/watch?v=Lpi6d-MgJVI)
+- [MLOps Tutorial - Building a CI/ CD Machine Learning Pipeline](https://www.youtube.com/watch?v=XoXvX8MyW8M)
+
+
+## Tools
+
+- [mlflow](https://mlflow.org) - helps you manage core parts of the machine learning lifecycle.
+- [dagshub](https://dagshub.com) - a platform made for the machine learning community to track and version the data, models, experiments, ML pipelines, and code
+- [docker](https://www.docker.com) - an open platform for developing, shipping, and running applications
+- [zenml](https://www.zenml.io) - helps you create MLOps pipelines without the infrastructure complexity
+- [Amazon SageMaker](https://aws.amazon.com/pm/sagemaker/?gclid=Cj0KCQiAsburBhCIARIsAExmsu7H_9sFi10FGKt5u_dHd73wamt7EIJWWu0FBo1Q7HygmyYZBLwGTPYaAhQxEALw_wcB&trk=b9fddfb8-9b30-4c54-8f91-ff16fad4dfed&sc_channel=ps&ef_id=Cj0KCQiAsburBhCIARIsAExmsu7H_9sFi10FGKt5u_dHd73wamt7EIJWWu0FBo1Q7HygmyYZBLwGTPYaAhQxEALw_wcB:G:s&s_kwcid=AL!4422!3!645208943671!e!!g!!amazon%20sagemaker!19572078909!144705028745) - one solution for MLOps. You can train and accelerate model development, track and version experiments, catalog ML artifacts, integrate CI/CD ML pipelines, and deploy, serve, and monitor models in production seamlessly.
+- [comet](https://www.comet.com/site/) - a platform for tracking, comparing, explaining, and optimizing machine learning models and experiments
+- [Weights & Biases](https://wandb.ai/site) - an ML platform for experiment tracking, data and model versioning, hyperparameter optimization, and model management.
+- [prefect](https://www.prefect.io) - a modern data stack for monitoring, coordinating, and orchestrating workflows between and across applications
+- [metaflow](https://metaflow.org) - a powerful, battle-hardened workflow management tool for data science and machine learning projects
+- [kedro](https://kedro.org) -  a workflow orchestration tool based on Python. You can use it for creating reproducible, maintainable, and modular data science projects
+- [pachyderm](https://www.pachyderm.com) - automates data transformation with data versioning, lineage, and end-to-end pipelines on Kubernetes.
+- [dvc](https://dvc.org) - an open-source tool for machine learning projects. It works seamlessly with Git to provide you with code, data, model, metadata, and pipeline versioning. 
+- [bentoml](https://www.bentoml.com) - makes it easy and faster to ship machine learning applications
+- [evidentlyai](https://www.evidentlyai.com) - an open-source Python library for monitoring ML models during development, validation, and in production
+- [fiddler](https://www.fiddler.ai) - an ML model monitoring tool with an easy-to-use, clear UI.
+- [censius](https://censius.ai) - an end-to-end AI observability platform that offers automatic monitoring and proactive troubleshooting.
+- [kubeflow](https://www.kubeflow.org/docs/) - makes machine learning model deployment on Kubernetes simple, portable, and scalable
+- [qwak](https://www.qwak.com) - fully-managed, accessible, and reliable ML platform to develop and deploy models and monitor the entire machine learning pipeline
+- [datarobot](https://www.datarobot.com/platform/mlops/) - offers features such as automated model deployment, monitoring, and governance
+- [valohai](https://valohai.com/product/) - provides a collaborative environment for managing and automating machine learning projects.
+- [aimstack](https://aimstack.io) - an open-source AI metadata tracking tool designed to handle thousands of tracked metadata sequences
+- [tecton](https://www.tecton.ai/feature-store/) - a feature platform designed to manage the end-to-end lifecycle of features
+- [feast](https://github.com/feast-dev/feast) - an open-source feature store with a centralized and scalable platform for managing, serving, and discovering features in MLOps workflows
+
 
 
 ## Contributing
 
 Contributions are welcome! If you have resources, tools, frameworks, articles, or projects related to MLOps that you'd like to add, please open a pull request.
 
-## License
-
-This repository is licensed under [License Name](URL).
