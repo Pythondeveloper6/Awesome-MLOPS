@@ -29,7 +29,12 @@ A curated list of resources, tools, frameworks, articles, and projects related t
 
 Welcome to Awesome MLOps! This repository aims to gather the best resources related to MLOps, covering a wide range of topics including best practices, tools, frameworks, articles, and projects in the field of Machine Learning Operations.
 
+- [What is MLOps? | AWS](https://aws.amazon.com/what-is/mlops/)
+- [What is MLOps? | Nvidia](https://blogs.nvidia.com/blog/what-is-mlops/)
+- [What is MLOps? | Ubuntu](https://ubuntu.com/blog/what-is-mlops)
+- [Why Should You Use MLOps? | AWS](https://ubuntu.com/blog/what-is-mlops)
 - [Introduction to MLOps](https://blog.paperspace.com/introduction-to-mlops/)
+- [MLOps and the evolution of data science | IBM](https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/)
 - [MLOps: Enabling Operationalization of ML at Scale](https://www.iguazio.com/mlops/)
 
 ## Roadmaps
@@ -46,6 +51,11 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [MLOps Full Course | MLOps Tutorial For Beginners | Machine Learning Operations | Intellipaat](https://www.youtube.com/watch?v=0Z0vZU6cMKY&t=1s)
 - [MLOps Course – Build Machine Learning Production Grade Projects](https://www.youtube.com/watch?v=-dJPoLm_gtE)
 - [MLOps Roadmap 2024 | MLOps Career Path 2024 | MLOps Careers | Simplilearn](https://www.youtube.com/watch?v=xP_OPVt0Mr0)
+- [Enterprise MLOps 101 | Nvidia](https://www.nvidia.com/en-us/on-demand/session/gtcspring23-s51616/)
+- [Best Practices to Accelerate ML Workflows and Reduce Computational Debt with MLOps | Nvidia](https://www.nvidia.com/en-us/on-demand/session/gtcfall20-a22204/)
+- [Introduction to Machine Learning Operations | Ubuntu](https://www.youtube.com/watch?v=_YjqHJNNnKE)
+
+
 
 
 ## Playlists
@@ -73,10 +83,10 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 
 
 ## Linkedin Accounts 
-
+- [Noah Gift](https://www.linkedin.com/in/noahgift/)
+- [Youssef Hosni](https://www.linkedin.com/in/youssef-hosni-b2960b135/)
 - [Mohammad Oghli](https://www.linkedin.com/in/mohammad-oghli/)
 - [Rahul Parundekar](https://www.linkedin.com/in/rparundekar/)
-- [Noah Gift](https://www.linkedin.com/in/noahgift/)
 - [MLOps Newsletter](https://www.linkedin.com/newsletters/mlops-newsletter-6968165653283266560/)
 - [Paul Iusztin](https://www.linkedin.com/in/pauliusztin/)
 - [Himanshu Ramchandani](https://www.linkedin.com/in/hemansnation/)
@@ -96,10 +106,18 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [MLOps Engineering at Scale](https://www.oreilly.com/library/view/mlops-engineering-at/9781617297762/?_gl=1*ev4ki1*_ga*NzU5Nzc0MzUuMTcwMTUwNjM0MQ..*_ga_092EL089CH*MTcwMTgwNzMxMy4zLjEuMTcwMTgwNzQ1OS41Ni4wLjA.)
 - [Engineering MLOps](https://www.oreilly.com/library/view/engineering-mlops/9781800562882/?_gl=1*dmg820*_ga*NzU5Nzc0MzUuMTcwMTUwNjM0MQ..*_ga_092EL089CH*MTcwMTgwNzMxMy4zLjEuMTcwMTgwNzUzNy42MC4wLjA.)
 - [Enterprise MLOps Interviews](https://www.oreilly.com/library/view/enterprise-mlops-interviews/08012022VIDEOPAIML/?_gl=1*19w4nom*_ga*NzU5Nzc0MzUuMTcwMTUwNjM0MQ..*_ga_092EL089CH*MTcwMTgwNzMxMy4zLjEuMTcwMTgwNzU0MS42MC4wLjA.)
+- [Introducing MLOps: How to Scale Machine Learning in the Enterprise](https://www.amazon.com/Introducing-MLOps-Machine-Learning-Enterprise/dp/1492083291/)
+
 
 
 ## Blogs
-
+- [Practitioners guide to MLOps | Google](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf)
+- [ML Models Containerization using Docker](https://www.linkedin.com/pulse/ml-models-containerizing-using-docker-mlops-mohammad-oghli-9ss7f/)
+- [A guide to MLOps | Ubuntu Whitepaper](https://ubuntu.com/engage/mlops-guide)
+- [MLOps Toolkit Explained | Ubuntu Whitepaper](https://ubuntu.com/engage/mlops-toolkit)
+- [Google Cloud Platform with ML Pipeline: A Step-to-Step Guide](https://www.analyticsvidhya.com/blog/2022/01/google-cloud-platform/)
+- [What is MLflow?](https://canonical.com/blog/what-is-mlflow)
+- [Building a comprehensive toolkit for machine learning](https://canonical.com/blog/machine-learning-toolkit)
 - [Made With ML](https://madewithml.com)
 - [Mlops Community](https://mlops.community/blog/)
 - [Valohai](https://valohai.com/blog/)
@@ -154,7 +172,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 
 ## Projects
 
-- [End To End MLOPS Data Science Project Implementation With Deployment]([URL](https://www.youtube.com/watch?v=pxk1Fr33-L4))
+- [End To End MLOPS Data Science Project Implementation With Deployment](https://www.youtube.com/watch?v=pxk1Fr33-L4)
 - [Best MLOps Practices for Building End-to-End Machine Learning Computer Vision Projects with Alex Kim](https://www.youtube.com/watch?v=E26IaD7bNXg)
 - [End To End Deep Learning Project Using MLOPS DVC Pipeline With Deployments Azure And AWS- Krish Naik](https://www.youtube.com/watch?v=p1bfK8ZJgkE)
 - [End To End Machine Learning Project Implementation With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
@@ -197,6 +215,8 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [aimstack](https://aimstack.io) - an open-source AI metadata tracking tool designed to handle thousands of tracked metadata sequences
 - [tecton](https://www.tecton.ai/feature-store/) - a feature platform designed to manage the end-to-end lifecycle of features
 - [feast](https://github.com/feast-dev/feast) - an open-source feature store with a centralized and scalable platform for managing, serving, and discovering features in MLOps workflows
+- [Paperspace](https://www.paperspace.com/artificial-intelligence) - a platform for building and scaling AI applications
+- [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud
 
 
 
