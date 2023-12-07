@@ -172,7 +172,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 
 ## Projects
 
-- [End To End MLOPS Data Science Project Implementation With Deployment]([URL](https://www.youtube.com/watch?v=pxk1Fr33-L4))
+- [End To End MLOPS Data Science Project Implementation With Deployment](https://www.youtube.com/watch?v=pxk1Fr33-L4)
 - [Best MLOps Practices for Building End-to-End Machine Learning Computer Vision Projects with Alex Kim](https://www.youtube.com/watch?v=E26IaD7bNXg)
 - [End To End Deep Learning Project Using MLOPS DVC Pipeline With Deployments Azure And AWS- Krish Naik](https://www.youtube.com/watch?v=p1bfK8ZJgkE)
 - [End To End Machine Learning Project Implementation With Dockers,Github Actions And Deployment](https://www.youtube.com/watch?v=MJ1vWb1rGwM)
