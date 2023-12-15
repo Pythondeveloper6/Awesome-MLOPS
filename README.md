@@ -32,7 +32,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [What is MLOps? | AWS](https://aws.amazon.com/what-is/mlops/)
 - [What is MLOps? | Nvidia](https://blogs.nvidia.com/blog/what-is-mlops/)
 - [What is MLOps? | Ubuntu](https://ubuntu.com/blog/what-is-mlops)
-- [Why Should You Use MLOps? | AWS](https://ubuntu.com/blog/what-is-mlops)
+- [Why Should You Use MLOps? | AWS](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-why.html)
 - [Introduction to MLOps](https://blog.paperspace.com/introduction-to-mlops/)
 - [MLOps and the evolution of data science | IBM](https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/)
 - [MLOps: Enabling Operationalization of ML at Scale](https://www.iguazio.com/mlops/)
@@ -139,11 +139,16 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 
 ## Free Courses 
 
-- [MLOps specialization by DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [MLOps Specialization by DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 - [MLOps Fundamentals by Google Cloud](https://www.coursera.org/learn/mlops-fundamentals?irclickid=xXASI9XEfxyIUUY36z15iWZRUkD2gAyoZ2m5Rg0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2382270&utm_content=b2c)
 - [Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development)
 - [MLOps Fundamentals](https://www.mygreatlearning.com/academy/learn-for-free/courses/mlops-fundamentals)
-- [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
+- [MLOps1 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops1-aws-deploying-ai-ml-models-in-production-using-amazon-web-services)
+- [MLOps2 (AWS)](https://www.edx.org/learn/amazon-web-services-aws/statistics-com-mlops2-aws-data-pipeline-automation-optimization-using-amazon-web-services)
+- [MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)
+- [MLOps Deployment and Life Cycling](https://www.datacamp.com/courses/mlops-deployment-and-life-cycling)
+
 
 
 
