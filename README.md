@@ -222,6 +222,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [feast](https://github.com/feast-dev/feast) - an open-source feature store with a centralized and scalable platform for managing, serving, and discovering features in MLOps workflows
 - [Paperspace](https://www.paperspace.com/artificial-intelligence) - a platform for building and scaling AI applications
 - [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud
+- [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - End to end Data Journey Observability plus data profiling, anomaly detection, and auto created data quality validation tests. Model monitoring. With UI. Apache 2.0 license
 
 
 
