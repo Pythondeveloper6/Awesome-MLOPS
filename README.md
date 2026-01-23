@@ -198,6 +198,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 ## Tools
 
 - [mlflow](https://mlflow.org) - helps you manage core parts of the machine learning lifecycle.
+- [Cordum](https://github.com/cordum-io/cordum) - Governance-first control plane for AI agents and external workers (policy-before-dispatch, approval gates, audit trails).
 - [dagshub](https://dagshub.com) - a platform made for the machine learning community to track and version the data, models, experiments, ML pipelines, and code
 - [docker](https://www.docker.com) - an open platform for developing, shipping, and running applications
 - [zenml](https://www.zenml.io) - helps you create MLOps pipelines without the infrastructure complexity
