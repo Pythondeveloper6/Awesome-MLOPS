@@ -222,6 +222,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [feast](https://github.com/feast-dev/feast) - an open-source feature store with a centralized and scalable platform for managing, serving, and discovering features in MLOps workflows
 - [Paperspace](https://www.paperspace.com/artificial-intelligence) - a platform for building and scaling AI applications
 - [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 
 
