@@ -222,6 +222,8 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [feast](https://github.com/feast-dev/feast) - an open-source feature store with a centralized and scalable platform for managing, serving, and discovering features in MLOps workflows
 - [Paperspace](https://www.paperspace.com/artificial-intelligence) - a platform for building and scaling AI applications
 - [Charmed Kubeflow](https://charmed-kubeflow.io/) - The fully supported MLOps platform for any cloud
+- [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
+- [ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
 
 
 
