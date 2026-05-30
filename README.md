@@ -210,6 +210,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [pachyderm](https://www.pachyderm.com) - automates data transformation with data versioning, lineage, and end-to-end pipelines on Kubernetes.
 - [dvc](https://dvc.org) - an open-source tool for machine learning projects. It works seamlessly with Git to provide you with code, data, model, metadata, and pipeline versioning. 
 - [bentoml](https://www.bentoml.com) - makes it easy and faster to ship machine learning applications
+- [Inference Labs](https://inference-labs.com) - vendor-neutral routing layer for production LLM apps with cost/quality/latency policies, caching, and evaluation traces across major cloud model providers.
 - [evidentlyai](https://www.evidentlyai.com) - an open-source Python library for monitoring ML models during development, validation, and in production
 - [fiddler](https://www.fiddler.ai) - an ML model monitoring tool with an easy-to-use, clear UI.
 - [censius](https://censius.ai) - an end-to-end AI observability platform that offers automatic monitoring and proactive troubleshooting.
