@@ -213,6 +213,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [evidentlyai](https://www.evidentlyai.com) - an open-source Python library for monitoring ML models during development, validation, and in production
 - [fiddler](https://www.fiddler.ai) - an ML model monitoring tool with an easy-to-use, clear UI.
 - [censius](https://censius.ai) - an end-to-end AI observability platform that offers automatic monitoring and proactive troubleshooting.
+- [Future AGI](https://github.com/future-agi/future-agi) - an open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 - [kubeflow](https://www.kubeflow.org/docs/) - makes machine learning model deployment on Kubernetes simple, portable, and scalable
 - [qwak](https://www.qwak.com) - fully-managed, accessible, and reliable ML platform to develop and deploy models and monitor the entire machine learning pipeline
 - [datarobot](https://www.datarobot.com/platform/mlops/) - offers features such as automated model deployment, monitoring, and governance
