@@ -43,6 +43,7 @@ Welcome to Awesome MLOps! This repository aims to gather the best resources rela
 - [MLOps Roadmap | Secure Top Jobs Instantly](https://www.youtube.com/watch?v=RebzueX3Ih8)
 - [MLOps Roadmap 2024 | MLOps Career Path 2024 | MLOps Careers | Simplilearn](https://www.youtube.com/watch?v=xP_OPVt0Mr0)
 - [MLOps Explained | MLOps Roadmap | Future of Data & AI](https://www.youtube.com/watch?v=1JRcYSoyp8E)
+- [Wyrcan Engineering Roadmap: 12-Stage Practitioner Curriculum](https://github.com/Wyrcan-io/roadmap) - Text-first engineering curriculum covering Linux, Docker, AWS, Terraform, Kubernetes, and MLOps.
 - [What is MLOps and how to get started? | MLOps series](https://www.youtube.com/watch?v=LdLFJUlPa4Y)
 
 
